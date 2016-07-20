@@ -8,7 +8,11 @@ This sample shows how to create an angular 2 app that:
 
 > You can **learn more about how it works [in this blogpost](https://auth0.com/blog/2015/05/14/creating-your-first-real-world-angular-2-app-from-authentication-to-calling-an-api-and-everything-in-between/)**
 
+> (Novos Links) "Authentication in Angular 2":
+
 https://auth0.com/blog/2015/11/10/introducing-angular2-jwt-a-library-for-angular2-authentication/
+
+https://medium.com/@blacksonic86/authentication-in-angular-2-958052c64492#.sbxq33kpo
 
 ## Running it
 
