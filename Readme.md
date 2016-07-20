@@ -14,6 +14,8 @@ https://auth0.com/blog/2015/11/10/introducing-angular2-jwt-a-library-for-angular
 
 https://medium.com/@blacksonic86/authentication-in-angular-2-958052c64492#.sbxq33kpo
 
+http://tphangout.com/rest-api-authentication-for-your-ionic-2-app-part-1/
+
 ## Running it
 
 Clone this repository as well as [the server](https://github.com/auth0/nodejs-jwt-authentication-sample) for this example.
